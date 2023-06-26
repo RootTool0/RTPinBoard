@@ -11,7 +11,7 @@
  * Создатель:
  * RootTool - https://youtube.com/@roottool0
  * Видео об этом:
- * https://youtube.com/
+ * https://youtu.be/Pe57_49BhEs
 */
 
 #include <RTPinBoard.h> //Подключаем библиотеку
